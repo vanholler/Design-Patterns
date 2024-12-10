@@ -12,6 +12,7 @@
 * **Builder (Строитель):** [./creational/builder.js](./creational/builder.js)  Позволяет построить сложный объект пошагово.
 * **Prototype (Прототип):** [./creational/prototype.js](./creational/prototype.js)  Создаёт новые объекты, копируя существующий прототип.
 
+`более развернуто` в [./generatingPatterns.md](./generatingPatterns.md)
 
 ## 2. Структурные шаблоны (Structural)
 
